@@ -74,6 +74,7 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | MacBookPro11,1 | <span style="color:#30BCD5"> YES </span> | ParaDoX1994 | Stock | 0.4.4 | N/A |
 | MacBookPro11,2 | ^^ | casey1234 | ^^ | 0.3.3 | ^^ |
 | MacBookPro11,3 | <span style="color:red"> NO </span> | N/A | N/A | N/A | N/A |
+| MacBookPro13,3 | <span style="color:#30BCD5"> YES </span> | Typhon0 | Stock | 0.6.1 | N/A |
 :::
 
 ::: details Mac mini
